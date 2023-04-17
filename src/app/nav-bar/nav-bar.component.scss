@@ -1,0 +1,51 @@
+.navbar{
+max-width: 80rem;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.Logo{
+    margin-right: 1.5rem;
+}
+
+.navlinks {
+    display: flex;
+    row-gap: 2rem;
+}
+
+.button{
+    background-color: #FFFFFF !important;
+    color: #c1c0c2 !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 20px;
+}
+
+.nav-left{
+display: flex;
+align-items: center;
+gap: 2rem;
+}
+
+.nav-right{
+    display: flex;
+align-items: center;
+gap: 2rem;
+}
+
+.nav-middle{
+    display: flex;
+align-items: center;
+}
+
+.login{
+    background-color: #1271e0 !important;
+    color: #FFFFFF !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
